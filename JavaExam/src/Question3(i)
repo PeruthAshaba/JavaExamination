@@ -1,0 +1,12 @@
+a) Inheritance is a concept used in object oriented programming where a subclass or child class inherits the attributes of the super class.
+for example a baby inheriting the characteristics  of her parents such as color, height.
+
+b) Encapsulation  is where attributes of a class are protected from unauthorized access.
+
+
+c)Polymorphism comes from poly which means "many" morphism which means "forms"
+
+
+d)Object is an instance of a class. For example Fruit is a class and apple is an object.
+
+c)A constructor is used to initialize the parameters of a class.

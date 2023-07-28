@@ -1,0 +1,5 @@
+A private modifier is a type of modifier whose attributes and methods can only be accessed within that class.
+
+A public modifier is a type of modifier which can be accessed from any class.
+
+A protected modifier is a type of modifier that can be accessed only by the subclasses(child classes) from the protected super class.
